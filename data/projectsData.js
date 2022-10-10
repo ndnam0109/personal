@@ -1,18 +1,14 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
+    title: 'Ong But - Learning',
+    description: `The application to manage the information and course of teacher in system, provide course and study documents of all levels, all subjects`,
+    imgSrc: '/static/images/projects/img.png',
     href: 'https://www.google.com',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
+    title: 'SMAS 4.0',
+    description: `This is the application to manage the information and records of student, teacher the school.- Currently, it has been applied in a number of schools nationwide.`,
+    imgSrc: '/static/images/projects/img_2.png',
     href: '/blog/the-time-machine',
   },
 ]

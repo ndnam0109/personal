@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Nam Nguyen
+avatar: /static/images/avatar-author.jpg
+occupation: HaNoi · 0373831172 · namnd0901@gmail.com
+company:
+email: namnd0901@gmail.com
+linkedin: https://www.linkedin.com/in/ndnam0109/
+github: https://github.com/ndnam0109
+facebook: https://www.facebook.com/namnd.dev/
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Apart from being a developer, I enjoy most of my spare time to read books 📖. I like to Detective novel, especially, Sherlock Holmes.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+On the weekend, I follow a number of movies and television shows, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.
