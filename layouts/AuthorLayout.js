@@ -36,10 +36,10 @@ export default function AuthorLayout({ children, frontMatter }) {
             </div>
           </div>
           <div className="prose max-w-none py-4 dark:prose-dark xl:col-span-2">
-            <h2 className="text-gray-500 dark:text-gray-100">Interests</h2>
+            <h2 className="text-gray-800 dark:text-gray-100">Interests</h2>
             {children}
-            <div className="border-t border-gray-500">
-              <h2 className="text-gray-500 dark:text-gray-100">Skills</h2>
+            <div className="border-t border-gray-200 dark:border-gray-700">
+              <h2 className="text-gray-800 dark:text-gray-100">Skills</h2>
               <div className="flex flex-wrap ">
                 <svg className="mr-5 h-16 w-16" viewBox="0 0 128 128">
                   <path fill="#F0DB4F" d="M1.408 1.408h125.184v125.185H1.408z"></path>
@@ -235,8 +235,8 @@ export default function AuthorLayout({ children, frontMatter }) {
                 </svg>
               </div>
             </div>
-            <div className="mt-5 border-t border-gray-500">
-              <h2 className="text-gray-500 dark:text-gray-100">Experience</h2>
+            <div className="mt-5 border-t border-gray-200 dark:border-gray-700">
+              <h2 className="text-gray-800 dark:text-gray-100">Experience</h2>
               <ol className="relative list-none border-l border-gray-200 dark:border-gray-700">
                 <li className="mb-10 ">
                   <div className="absolute -left-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-400 dark:border-gray-900 dark:bg-gray-700"></div>
