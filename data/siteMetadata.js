@@ -1,11 +1,11 @@
 const siteMetadata = {
-  title: 'Nam </> Dev ',
+  title: 'Nam.Dev ',
   author: 'Nam Nguyen',
   headerTitle: 'TailwindBlog',
   description: `I'm a Front-end Developer in HaNoi!`,
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'http://namnd-dev.cf/_next/image?url=%2Fstatic%2Fimages%2FHTTP-Caching.gif&w=640&q=75',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
