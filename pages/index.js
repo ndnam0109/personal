@@ -22,14 +22,25 @@ export default function Home({ posts }) {
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pt-6 pb-8 text-center md:space-y-5">
-          <Image
-            src={'/static/images/HTTP-Caching.gif'}
-            alt="avatar"
-            width="500px"
-            height="350px"
-            className="h-48 w-48 rounded-xl "
-          />
-          <div className="flex justify-center">
+          <div className="hidden dark:block">
+            <Image
+              src={'/static/images/HTTP-Caching.gif'}
+              alt="avatar"
+              width="500px"
+              height="350px"
+              className=" h-48 w-48 rounded-xl "
+            />
+          </div>
+          <div className="block dark:hidden">
+            <Image
+              src={'/static/images/dev.gif'}
+              alt="avatar"
+              width="500px"
+              height="350px"
+              className=" h-48 w-48 rounded-xl "
+            />
+          </div>
+          <div className="flex flex-wrap justify-center">
             <div className="h-[100px] w-[100px] rounded-full border-2 border-gray-500 dark:border-2 dark:border-gray-50">
               <Image
                 src={`/static/images/avatar-author.jpg`}
