@@ -14,7 +14,7 @@ const siteMetadata = {
   github: 'https://github.com/ndnam0109',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://www.facebook.com/namnd.dev/',
-  youtube: 'https://youtube.com',
+  youtube: 'https://youtube.com ',
   linkedin: 'https://www.linkedin.com/in/ndnam0109/',
   locale: 'en-US',
   analytics: {
