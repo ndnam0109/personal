@@ -5,7 +5,7 @@ const siteMetadata = {
   description: `I'm a Front-end Developer in HaNoi!`,
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'http://namnd-dev.cf/static/images/blog.png',
+  siteUrl: 'https://namnd.cf/static/images/blog.png',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
