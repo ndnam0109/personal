@@ -66,7 +66,7 @@ export default function Contact() {
               <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"></path>
             </svg>
             <span className="sr-only">Notifications</span>
-            <div className="absolute -top-2 -right-2 inline-flex h-6 w-6 items-center justify-center rounded-full border-2 border-white bg-red-500 text-xs font-bold text-white dark:border-gray-900">
+            <div className="absolute -top-2 -right-2 inline-flex h-6 w-6 items-center justify-center rounded-full border-2 border-white bg-gray-700 text-xs font-bold  text-white dark:bg-gray-700">
               {mails?.docs.length ?? 0}
             </div>
           </div>
